@@ -4,7 +4,7 @@
 
 # Engenharia de Telecomunicações - IFSC câmpus São José
 
-# Turma: 129003 - Programação Orientada à Objetos
+# Turma: 129003 - 2025.1 - Programação Orientada à Objetos
 
 ## Objetivo do Projeto
 
