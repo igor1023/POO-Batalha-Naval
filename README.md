@@ -30,7 +30,9 @@ Ao final de cada partida, o jogo deve exibir o vencedor e perguntar se o usuári
 • nome do jogador com mais vitórias.
 
 ## Diagrama de Classes UML
-Pretendo implementar o projeto com base no que consta no diagrama de classes UML que pensei e desenhei.
+Pretendo implementar o projeto com base no que consta no diagrama de classes UML que pensei e desenhei. Diagrama implementado através do Draw.io. 
+Com a correção do docente, o diagrama abaixo *ESTÁ COM ERROS*. Nos projetos posteriores, desenvolveu-se o diagrama por meio de Mermaid, com isso, verifiquei meus erros e os corrigi quando tive a oportunidade.
+
 ![Diagrama de classes UML do projeto](images/DiagramaUML_BatalhaNaval.png)
 
 ## Requisitos do Projeto
